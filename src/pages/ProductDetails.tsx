@@ -272,7 +272,7 @@ function ProductDetails() {
               <div className="mt-8 flex flex-col gap-3 sm:flex-row">
                 {product.whatsapp_enabled && (
                   <a
-                    href="https://wa.me/YOUR_WHATSAPP_NUMBER"
+                    href="https://wa.me/917084368451"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex flex-1 items-center justify-center gap-2 rounded-xl bg-green-600 px-6 py-4 font-bold text-white hover:bg-green-700"
