@@ -259,7 +259,7 @@ function Products() {
 
                         {product.whatsapp_enabled && (
                           <a
-                            href="https://wa.me/YOUR_WHATSAPP_NUMBER"
+                            href="https://wa.me/917084368451"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center justify-center rounded-xl bg-green-600 px-4 py-3 text-white hover:bg-green-700"
